@@ -1,2 +1,6 @@
 #!/bin/bash
-read -p "please enter your firest name"
+read -p 'username :' user_var
+read -sp 'password :' pass_var
+echo
+echo " your username : $user_var "
+echo " your password : $pass_var "
