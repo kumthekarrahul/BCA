@@ -4,3 +4,4 @@ read -sp 'password :' pass_var
 echo
 echo " your username : $user_var "
 echo " your password : $pass_var "
+echo "User added and password has been set"
